@@ -5,9 +5,9 @@
   <subtitle>Stay Hungry, Stay Foolish</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://zhuwenb.github.io/"/>
+  <link href="http://windknow.net/"/>
   <updated>2018-10-15T16:33:20.275Z</updated>
-  <id>https://zhuwenb.github.io/</id>
+  <id>http://windknow.net/</id>
   
   <author>
     <name>Wesley Chu</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://zhuwenb.github.io/2018/10/15/hello-world/"/>
-    <id>https://zhuwenb.github.io/2018/10/15/hello-world/</id>
+    <link href="http://windknow.net/hello-world/"/>
+    <id>http://windknow.net/hello-world/</id>
     <published>2018-10-15T11:09:05.012Z</published>
     <updated>2018-10-15T16:33:20.275Z</updated>
     
